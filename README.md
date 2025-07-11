@@ -6,4 +6,6 @@ MY NAME IS NIDHI
 my age is 19
 <br>
 I am in SE 
+<br>
+I am pursuing BE in ECS
 
